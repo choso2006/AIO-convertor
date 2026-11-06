@@ -1,5 +1,6 @@
 # convertor
 
+*sleeky little interface*
 ![Convertor](Convertor.png)
 
 a local file converter for windows and mac. built it because i hate ads and uploading my files to random websites. runs completely offline.
@@ -15,8 +16,10 @@ a local file converter for windows and mac. built it because i hate ads and uplo
 - 24 themes to pick from
 - ctrl+v pastes screenshots right into the list
 
+*about me heck yeah*
 ![Convertor 2](Convertor2.png)
 
+*pink theme btw*
 ![Convertor 3](Convertor3.png)
 
 ## how to run from source
