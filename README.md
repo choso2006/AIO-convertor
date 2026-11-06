@@ -1,5 +1,7 @@
 # convertor
 
+![Convertor](Convertor.png)
+
 a local file converter for windows and mac. built it because i hate ads and uploading my files to random websites. runs completely offline.
 
 ## what it does
@@ -12,6 +14,10 @@ a local file converter for windows and mac. built it because i hate ads and uplo
 - files (split large files into chunks or join them back)
 - 24 themes to pick from
 - ctrl+v pastes screenshots right into the list
+
+![Convertor 2](Convertor2.png)
+
+![Convertor 3](Convertor3.png)
 
 ## how to run from source
 
